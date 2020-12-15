@@ -188,7 +188,7 @@ M(1,ii)=h_in*A*(T(ii,1)-T_in);
 end
 heat2=trapz(heat2,M)
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+%%%%5
 % Plotting the  temperatures distribution in the form of surface for whole
 % the two days continously along the wall
  
