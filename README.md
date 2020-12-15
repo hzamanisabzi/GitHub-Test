@@ -20,7 +20,7 @@ clc
 %the Trombe wall to the ambient is determined to be h_out=0.7 Btu/(h*ft^2F)
 %h_in        heat transfer coefficient at the interior surface of the
 %Trombe wall is h_in=1.8 Btu/(h*ft^2)
-%%%% Trombe Wall Properties %%%%%%%%%%%%%
+%%%% Trombe Wall Properties %
  
  
 L= input(' Please input the thickness of the wall, (L=1) = ');
